@@ -9,22 +9,22 @@ body{
     background-color: black;
 }
 .container{
-    width: 400px;
-    height: 400px;
+    width: 380px;
+    height: 380px;
     margin: auto;
     margin-top: 100px;
 }
 .clockcontainer{
-    width: 400px;
-    height: 400px;
+    width: 380px;
+    height: 380px;
     border: 3px solid rgb(47, 255, 47);
     border-radius: 50%;
     background-color: rgba(0, 255, 4, 0.9);
     box-shadow: 1px 1px 50px rgb(21, 255, 0);
 }
 .clockcontain{
-    width: 395px;
-    height: 395px;
+    width: 375px;
+    height: 375px;
     position: absolute;
     border: 3px solid black;
     border-radius: 50%;
