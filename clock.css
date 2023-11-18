@@ -34,7 +34,7 @@ body{
 .center{
     width: 10px;
     height: 10px;
-    left: 183px;
+    left: 181px;
     position: absolute;
     top:180px;
     border-radius: 50%;
@@ -50,7 +50,7 @@ body{
     position:absolute;
     transform-origin: 100% 100%;
     transform: rotate(-55deg) skew(-20deg);
-    left: -25px;
+    left: -30px;
     top: -9px;
 }
 .sector2{
@@ -59,9 +59,9 @@ body{
     background-color: rgb(0, 0, 0);
     position:absolute;
     transform-origin: 100% 100%;
-    transform: rotate(126deg) skew(-20deg);
+    transform: rotate(126deg) skew(-22deg);
     left: 61px;
-    top: -15px;
+    top: -12px;
 }
 #hour,#min,#sec{
     background-color: rgb(255, 255, 255);
@@ -73,13 +73,13 @@ body{
 #hour{
     width: 1.5%;
     height: 30%;
-    left:190px;
+    left:189px;
     top: 75px;
 }
 #min{
     width: 1%;
     height: 41%;
-    left:190px;
+    left:194px;
     top: 32px;
     
 }
@@ -125,33 +125,33 @@ body{
 }
 #two{
     position: absolute;
-    left: 335px;
+    left: 330px;
     top: 100px;
 }
 #three{
     position: absolute;
-    left: 360px;
+    left: 350px;
     top: 183px;
 }
 #four{
     position: absolute;
-    left: 335px;
-    top: 270px;
+    left: 325px;
+    top: 265px;
 }
 #five{
     position: absolute;
-    left: 275px;
-    top: 330px;
+    left: 265px;
+    top: 325px;
 }
 #six{
     position: absolute;
     left:187px;
-    top: 355px;
+    top: 345px;
 }
 #seven{
     position: absolute;
     left: 100px;
-    top: 335px;
+    top: 325px;
 }
 #eight{
     position: absolute;
